@@ -1,3 +1,3 @@
-public with sharing class GIThubTest2 {
+public with sharing class GIThubTest3 {
 
 }
